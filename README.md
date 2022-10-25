@@ -14,4 +14,4 @@
 
 ## mvp : most-minimum valuable product est la version d'un produit qui permet d'obtenir un maximum de retours client avec un minimum d'effort
 
-## material design: 
+## material design: norme proposer par google à respecter pour les interface des applications pour qu'il y est un minimum de intuité, un design avec des composant semblable sur google 
