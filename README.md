@@ -18,6 +18,6 @@
 
 ## dictionnaire de données : Un dictionnaire de données est un fichier qui définit le format des données dans un fichier à plat ASCII à largeur fixe utilisé dans IBM Campaign comme table de base ou table générale. Un dictionnaire de données est nécessaire pour interpréter la structure et le format d'un fichier texte ASCII à largeur fixe
 
-## MCD : Modele Conceptuel de Donnés : modele qui permet de voir les differente relation entre les donnes qui seron utilisé, il y aura les tables, un verbe d'action et le type entre chaque relation.
+## MCD : Modele Conceptuel de Donnés : modele qui permet de voir les differente relation entre les donnes qui seron utilisé, il y aura les tables (l'entité), un verbe d'action et la cardinalité(1-N) entre chaque relation.
 
 ## .JSON :JavaScript Object Notation est un format de données textuelles dérivé de la notation des objets du langage JavaScript
