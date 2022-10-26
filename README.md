@@ -15,3 +15,9 @@
 ## mvp : most-minimum valuable product est la version d'un produit qui permet d'obtenir un maximum de retours client avec un minimum d'effort
 
 ## material design: norme proposer par google à respecter pour les interface des applications pour qu'il y est un minimum de intuité, un design avec des composant semblable sur google 
+
+## dictionnaire de données : Un dictionnaire de données est un fichier qui définit le format des données dans un fichier à plat ASCII à largeur fixe utilisé dans IBM Campaign comme table de base ou table générale. Un dictionnaire de données est nécessaire pour interpréter la structure et le format d'un fichier texte ASCII à largeur fixe
+
+## MCD : Modele Conceptuel de Donnés : modele qui permet de voir les differente relation entre les donnes qui seron utilisé, il y aura les tables, un verbe d'action et le type entre chaque relation.
+
+## .JSON :JavaScript Object Notation est un format de données textuelles dérivé de la notation des objets du langage JavaScript
