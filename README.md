@@ -20,4 +20,8 @@
 
 > ## **MCD** : Modele Conceptuel de Donnés : modele qui permet de voir les differente relation entre les donnes qui seron utilisé, il y aura les tables (l'entité), un verbe d'action et la cardinalité(1-N) entre chaque relation.
 
-> ## **.JSON** :JavaScript Object Notation est un format de données textuelles dérivé de la notation des objets du langage JavaScript
+> ## **.JSON** :JavaScript Object Notation est un format de données textuelles dérivé de la notation des objets du langage JavaScript.
+
+> ## **design pattern** : modèle de conception sont des modèles préconçus qui permettent de résoudre des problèmes avec des concepts qui ont fait leurs preuves et ainsi evitée de refaire a chaque fois la meme chose, ne pas réinventer la roue.
+> 
+> ## **MVC** : design pattern populaire du web utilisé par bcp de framework  separé en trois couche Model(partie bdd), Vue(partie affichage utilisateur), Contolleur( cerveau qui est entre le modèle et la vue c'est lui qui dicte quoi faire).
