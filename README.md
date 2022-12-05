@@ -26,3 +26,9 @@
 > 
 > # **MVC** : design pattern populaire du web utilisé par bcp de framework  separé en trois couche Model(partie bdd), Vue(partie affichage utilisateur), Contolleur( cerveau qui est entre le modèle et la vue c'est lui qui dicte quoi faire).
 > # **SGBD** : Un système de gestion de base de données (SGBD) est le logiciel qui permet à un ordinateur de stocker, récupérer, ajouter, supprimer et modifier des données.
+
+> # **vue js ** : (progressive integration partielle ou full pas oblige de partir de zero pour l'integrer) framework js,
+pour avoir principalement des pages dynamiques, avantage: accecible,performant(plutot fait pour des page web leger pas trop complexe),
+maintenable,scalable,
+populaire (mais moins que les concurrant, moins documenter, petite commu), open source independant.
+react js, angular 
