@@ -29,6 +29,5 @@
 
 > # **vue js** : (progressive integration partielle ou full pas oblige de partir de zero pour l'integrer) framework js,
 pour avoir principalement des pages dynamiques, avantage: accecible,performant(plutot fait pour des page web leger pas trop complexe),
-maintenable,scalable,
-populaire (mais moins que les concurrant, moins documenter, petite commu), open source independant.
+maintenable,scalable, populaire (mais moins que les concurrant, moins documenter, petite commu), open source independant.
 react js, angular 
