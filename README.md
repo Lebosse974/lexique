@@ -1,7 +1,7 @@
 # lexique
 
 
-> # **Scalabilité** : 
+> # **Scalabilité** : application capable de gerer un jusqu'une grande quantité d'utilisateur.
 
 
 > # **wireframe** : maquette fonctionnelle, qui représente la structure statique de la page web, elle affiche les fonctionnalités intégré aux site ; ux(expérience utilisateur) optimale.
@@ -23,8 +23,17 @@
 > # **.JSON** :JavaScript Object Notation est un format de données textuelles dérivé de la notation des objets du langage JavaScript.
 
 > # **design pattern** : modèle de conception sont des modèles préconçus qui permettent de résoudre des problèmes avec des concepts qui ont fait leurs preuves et ainsi evitée de refaire a chaque fois la meme chose, ne pas réinventer la roue.
-> 
+
+
 > # **MVC** : design pattern populaire du web utilisé par bcp de framework  separé en trois couche Model(partie bdd), Vue(partie affichage utilisateur), Contolleur( cerveau qui est entre le modèle et la vue c'est lui qui dicte quoi faire).
+
+
 > # **SGBD** : Un système de gestion de base de données (SGBD) est le logiciel qui permet à un ordinateur de stocker, récupérer, ajouter, supprimer et modifier des données.
 
 > # **vue js** : (progressive integration partielle ou full pas oblige de partir de zero pour l'integrer) framework js,pour avoir principalement des pages dynamiques, avantage: accecible,performant(plutot fait pour des page web leger pas trop complexe),maintenable,scalable, populaire (mais moins que les concurrant(react js, angular), moins documenter, petite commu), open source independant. 
+
+> # **Kanban** : méthode de gestion de projet, utilise en particulier des tableaux pour les decoupage de tâche.
+ 
+> # **framework** :  ensemble de composant qui constraint et dirige la maniere de coder, ca facilite et ameliore le code.
+ 
+> # **forme normale (merise)** :Les formes normales sont différents stades de qualité qui permettent d'éviter la redondance, source d'anomalies, utilise sur le mcd. La normalisation peut être aussi bien effectuée sur un modèle entités-associations, où elle s'applique sur les types entité et type association, que sur un modèle relationnel.
