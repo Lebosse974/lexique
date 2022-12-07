@@ -1,7 +1,7 @@
 # lexique
 
 
-> # **Scalabilité** : application capable de gerer un jusqu'une grande quantité d'utilisateur.
+ # **Scalabilité** : application capable de gerer un jusqu'une grande quantité d'utilisateur.
 
 
 > # **wireframe** : maquette fonctionnelle, qui représente la structure statique de la page web, elle affiche les fonctionnalités intégré aux site ; ux(expérience utilisateur) optimale.
