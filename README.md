@@ -2,7 +2,7 @@
 
 
  # **Scalabilité** :
- >application capable de gerer un jusqu'une grande quantité d'utilisateur.
+ > capacité  de gerer un jusqu'une grande quantité d'utilisateur.
 
 
  # **wireframe** : 
