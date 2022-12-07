@@ -1,6 +1,6 @@
 # lexique
 
-
+>>
  # **Scalabilité** :
  >application capable de gerer un jusqu'une grande quantité d'utilisateur.
 
