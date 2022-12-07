@@ -37,3 +37,9 @@
 > # **framework** :  ensemble de composant qui constraint et dirige la maniere de coder, ca facilite et ameliore le code.
  
 > # **forme normale (merise)** :Les formes normales sont différents stades de qualité qui permettent d'éviter la redondance, source d'anomalies, utilise sur le mcd. La normalisation peut être aussi bien effectuée sur un modèle entités-associations, où elle s'applique sur les types entité et type association, que sur un modèle relationnel.
+
+> # **Orm** : Object-Relational Mapping  C'est l'interface qui permet de faire le lien ou "mapping" entre les objets et les éléments de la base de données (que gère DBAL).
+
+> # **Caractère d'échappement** : caractère qui déclenche une interprétation alternative du ou des caractères qui le suivent. Le caractère d'échappement peut : retirer sa valeur spéciale à un caractère.
+
+> # **Injection SQL** :  technique permettant d'injecter des éléments, notamment du code de type SQL.
